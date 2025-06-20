@@ -31,7 +31,7 @@ A lightweight REST API built with Node.js, Express, and MongoDB for managing use
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/fromancient/Simple-API-Convo
    cd simle-api
    ```
 
